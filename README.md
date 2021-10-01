@@ -6,5 +6,5 @@ If You Dont Know How To Fork/Use This Then Don't Woory Soon I Upload A Video On 
 If You Want To Host It 24/7 Then Join Our[Support Server](https://discord.gg/em44gJXRbJ) And Ping Me. Soon I Also Upload Video On [YouTube Channel](https://youtube.com/channel/UCTEwiHm5kzJWzNlQIOYlbQA) Subscribe Now For Notification!
 # I Get An Error How To Fix That ?
 Don't Woory If You Get Any Error Then Join Our [Support Server](https://discord.gg/em44gJXRbJ) And Contact Me Or Staff We Fix It.
-#How To Get More Codes ?
+# How To Get More Codes ?
 If You Don't Good At Coding And Need Codes Then Contact Me Or Staff In Our [Support Server](https://discord.gg/em44gJXRbJ)
