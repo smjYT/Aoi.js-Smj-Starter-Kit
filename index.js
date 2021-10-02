@@ -33,8 +33,3 @@ bot.variables(require('./handler/variables.js'))
 bot.onMessage({
   respondToBots: false
 });
-
-bot.command({
-  name:"ping",
-  code:`:ping_pong: Pong! \`$ping ms\``
-});
